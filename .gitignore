@@ -70,3 +70,18 @@ node_modules/
 
 venv
 __pycache__
+
+*.tfstate
+*.tfstate.*
+
+.terraform/
+
+crash.log
+
+*.tfvars
+*.tfvars.json
+
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
