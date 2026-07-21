@@ -1,0 +1,41 @@
+{
+  "personals": {
+    "name": "name",
+    "email": "mail@mail.com",
+    "phone": "9999",
+    "github": "link1",
+    "linkedin": "link2"
+  },
+  "skills": {
+    "Cat1": ["skill1", "skill2", "skill3"],
+    "Cat2": ["skill1", "skill2", "skill3"],
+    "Cat3": ["skill1", "skill2", "skill3"]
+  },
+  "projects": [
+    {
+      "id": "proj1",
+      "name": "name1",
+      "technologies": ["tech1", "tech2", "tech3"],
+      "description": "description",
+      "githubUrl": "link",
+      "liveUrl": null
+    },
+    {
+      "id": "proj2",
+      "name": "name2",
+      "technologies": ["tech1", "tech2", "tech3"],
+      "description": "description",
+      "githubUrl": null,
+      "liveUrl": "link"
+    }
+  ],
+  "experience": [],
+  "education": [
+    {
+      "institute": "ins1",
+      "qualification": "deg1",
+      "startYear": 2022,
+      "endYear": 2026
+    }
+  ]
+}
